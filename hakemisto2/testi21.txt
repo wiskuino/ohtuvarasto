@@ -1,1 +1,0 @@
-tätä muutettiin nyt git add -p varten
