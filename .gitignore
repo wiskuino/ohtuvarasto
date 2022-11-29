@@ -1,4 +1,0 @@
-#ohtuvarasto_harjoitus
-*.tmp
-__pycache__/**/*.*
-.pytest_cache/**/*.*
