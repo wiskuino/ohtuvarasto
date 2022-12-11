@@ -8,6 +8,11 @@ Download the project from Github. Use the following commands to install the appl
 poetry install
 ```
 
+
+
+
+
+# turhaa kommenttia
 ```
 poetry run invoke build
 ```
